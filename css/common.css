@@ -73,6 +73,49 @@ header{
 	font-size: 35px;
 	letter-spacing: 2px;
 }
+
+ #box-services-modal .modal-body{
+ 	width: 60%;
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	padding: 100px;
+ }
+
+ #box-services-modal .modal body h5,#box-services-modal .modal body h6{
+ 	color: white;
+ }
+
+ #box-services-modal .modal body h5{
+ 	font-size: 2em;
+ }
+
+ #box-services-modal .modal body h5{
+ 	font-size: 1.5em;
+ }
+
+ #box-services-modal .close{
+ 	position: absolute;
+ 	top: 20px;
+ 	right: 20px;
+ 	width: 50px;
+ }
+
+ #box-services-modal .close img{
+ 	width: 70px;
+ }
+
+.hide{
+ 	display: none;
+}
+#container{
+  background-image: url(../assets/images/hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 554px;
+    text-align: center;
+    margin-top: 80px;
+}
 footer{
 	text-align: center;
 	height: 70px;
